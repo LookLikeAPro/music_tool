@@ -1,0 +1,7 @@
+[package]
+name = "album_tool"
+version = "0.1.0"
+authors = ["jerryz <jerryzhou00@gmail.com>"]
+
+[dependencies]
+docopt = "*"
